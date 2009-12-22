@@ -1,1 +1,5 @@
 #summary Seminar o bitmap slikama - autori: Jurica Levatić i Goran Ljubej
+
+= Introduction =
+http://multimedijskisustavi.googlecode.com/files/Bitmap%20slike.docx
+http://multimedijskisustavi.googlecode.com/files/Bitmap%20slike.pptm
